@@ -1,5 +1,5 @@
 # MonetaryCoin Exchange List
-
+8
 MonetaryCoin is traded on those exchanges:
 
 ## MonetaryCoinERO (MERO) 
